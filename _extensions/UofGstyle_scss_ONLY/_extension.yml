@@ -1,0 +1,12 @@
+title: University of Glasgow Quarto Template
+author: Chao Xu
+version: 0.0.1
+contributes:
+  formats: 
+    revealjs:
+      logo: UofGlogo.png
+      theme: UofGstyle.scss
+      width: 1600
+      height: 900
+      title-slide-attributes:
+        data-background-color: "#D9DBDB"
